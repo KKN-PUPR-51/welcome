@@ -1,4 +1,4 @@
-# welcome
+# WELCOME 👋
 Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini keperluan untuk penyetaraan KKN kami.
 
 # Team Project 🟦
@@ -10,3 +10,6 @@ Halo, terima kasih sudah mengunjungi tim kami. Kami mengerjakan project ini kepe
 | Dinda Ayu Aprilia         | Main Developer | Backend       |
 | Vista Mellyna Atsfi       | Support Developer | Front End  |
 | Surya Abdi Febrianto      | Support Developer | Front End  |
+
+# Estimate Project Progression ⌛
+Among 46 days.
